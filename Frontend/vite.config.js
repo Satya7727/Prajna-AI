@@ -7,5 +7,6 @@ export default defineConfig({
   preview: {
     host: true, 
     port: 4173,
+    allowedHosts: ['prajna-ai-yhy3.onrender.com']
   },
 })
